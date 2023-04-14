@@ -1,3 +1,5 @@
+如果要编译，使用原仓编译，CMakeList会检查Git change log
+
 To build use cmake (Minimum version 3.7.2):
 cmake .
 make
